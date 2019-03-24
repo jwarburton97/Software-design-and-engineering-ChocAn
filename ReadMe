@@ -1,0 +1,5 @@
+Team project where we developed a program that runs a ChocAn that provides services to members from specific providers.
+To run program just compile Main.Java in any IDE.
+Program creates: Members, Services, and Providers.
+Provider bills the member.
+The manager can Generate many different forms showing prices due and member lists and provider lists.
